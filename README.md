@@ -1,4 +1,4 @@
-# 🕵 phoenix-memo
+#  phoenix-memo
 
 A minimalist, high-security themed web interface designed to simulate a classified "Project Phoenix" intelligence document.
 
