@@ -10,7 +10,3 @@ The **Phoenix Memo** is a lightweight HTML template for creating "Confidential M
 * **Redaction Logic:** Uses a `.blurred` class to hide sensitive data like agent names, coordinates, and project details.
 * **Semantic Structure:** Clean HTML5 layout wrapped in a `<main id="email">` container for easy styling.
 
-##  Installation
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/prakharr3act/phoenix-memo.git](https://github.com/prakharr3act/phoenix-memo.git)
