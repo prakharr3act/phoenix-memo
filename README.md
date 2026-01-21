@@ -1,4 +1,4 @@
-# 🕵️‍♂️ phoenix-memo
+# 🕵 phoenix-memo
 
 A minimalist, high-security themed web interface designed to simulate a classified "Project Phoenix" intelligence document.
 
@@ -20,4 +20,4 @@ The **Phoenix Memo** is a lightweight HTML template for creating "Confidential M
 ## 🚀 Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/phoenix-memo.git](https://github.com/your-username/phoenix-memo.git)
+   git clone [https://github.com/prakharr3act/phoenix-memo.git](https://github.com/prakharr3act/phoenix-memo.git)
